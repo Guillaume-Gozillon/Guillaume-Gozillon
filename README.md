@@ -1,5 +1,4 @@
-### Hi there 👋
-## Passionate about digital and dev
+# Hi there 👋, i'm Guillaume and i'm Front-End developper using React. Let's build a new app
 
 <!--
 **Guillaume-Gozillon/Guillaume-Gozillon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
