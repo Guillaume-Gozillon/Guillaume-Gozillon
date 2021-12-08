@@ -4,6 +4,6 @@ I focus on pixel perfect and I enjoy UX/UI.
 
 Here is my stack :
 
-- React / Redux
+- React / Redux / Redux Toolkit
 - Vanilla javascript
-- Sass / scss / styled-components
+- Sass / scss / styled-components / Tailwind
