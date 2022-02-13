@@ -4,6 +4,6 @@ I focus on pixel perfect and I enjoy UX/UI.
 
 Here is my stack :
 
-- React / Redux / Redux Toolkit / Recoil
+- React / Next / Redux / Redux Toolkit / Recoil
 - Vanilla javascript
 - Sass / scss / styled-components / Tailwind
