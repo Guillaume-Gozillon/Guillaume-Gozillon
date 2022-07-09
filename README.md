@@ -1,9 +1,9 @@
 ### Hi there 👋
-Front-End developper using React, Typescript and React-Redux. 
+Frontend developper using React, Typescript and React-Redux. 
 Focus on pixel perfect and I enjoy UX/UI.
 
-Here is my stack :
+My stack :
 
 - React / Next / Redux / Redux Toolkit / Recoil
 - Typescript / GraphQL
-- Sass / scss / styled-components / Tailwind / MUI for the Design System
+- Sass / styled-components / Tailwind / MUI as a design system
