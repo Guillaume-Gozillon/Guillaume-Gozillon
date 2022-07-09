@@ -1,4 +1,4 @@
-### Yep 
+### Hi there 👋🏻
 Frontend developper using React, Typescript and React-Redux. 
 Focus on pixel perfect and I enjoy UX/UI.
 
