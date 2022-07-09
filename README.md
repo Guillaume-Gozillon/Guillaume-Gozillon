@@ -1,6 +1,5 @@
 ### Hi there 👋🏻
-React dev.
-Focusing on pixel perfect.
+React dev, focusing on pixel perfect.
 
 My stack :
 
