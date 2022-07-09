@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-Frontend dev using React, Typescript and React-Redux. 
+React dev.
 Focusing on pixel perfect.
 
 My stack :
