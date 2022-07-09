@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 Frontend dev using React, Typescript and React-Redux. 
-Focus on pixel perfect and I enjoy UX/UI.
+Focusing on pixel perfect.
 
 My stack :
 
