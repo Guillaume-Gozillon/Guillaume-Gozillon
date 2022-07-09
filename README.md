@@ -1,4 +1,5 @@
-### There..
+### Who they are
+and those who are they
 Frontend developper using React, Typescript and React-Redux. 
 Focus on pixel perfect and I enjoy UX/UI.
 
